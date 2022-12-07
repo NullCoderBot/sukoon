@@ -16,8 +16,58 @@
 </p>
 
 <p align="center">
+
+   Install Locally Or On A VPS
+
+</p>
+
+## VPS/Locally deploy!
+
+```console
+
+Sukoon@MusicBot~ $ apt-get -y update
+
+Sukoon@MusicBot~ $ apt-get -y install git gcc python3-dev
+
+Sukoon@MusicBot~ $ git clone https://github.com/yashuXmusic/SukoonMusicBot
+
+Sukoon@MusicBot~ $ cd SukoonMusicBot~
+
+Sukoon@MusicBot~ $ pip3 install -U-r requirements.txt
+
+Sukoon@MusicBot~ $ cp sample.env .env
+
+```
+
+<h3 align="center">
+
+   Edit <b>.env</b> with your own values and Run Bot
+
+</h3>
+
+```console
+
+Mahadev@UserBot~ $ screen
+
+Mahadev@UserBot~ $ bash start
+
+```
+
+<p align="center">
   <img src="https://telegra.ph//file/eb71290c9beba9dcda6c1.jpg">
 </p>
+
+<p align="center"><a href="https://t.me/INDIAN_STUDY_WARRIORS"><img src="https://telegra.ph//file/3fcc0832301bc28c384cb.jpg" width="300"></a></p>
+
+<p align="center">
+
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
+
+##
+
+<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=yashuXmusic&repo=SukoonMusicBot&theme=dark)
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
